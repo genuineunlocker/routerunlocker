@@ -40,7 +40,7 @@ const faqData = [
   {
     question: "How can I contact support for any queries?",
     answare:
-      'For any queries, you can contact support exclusively via email. Reach out to your carrier’s support email  genuineunlockerinfo@gmail.com',
+      'For any queries, you can contact support exclusively via email. Reach out to your carrier’s support email  routerunlockerinfo@gmail.com',
   },
 ];
 

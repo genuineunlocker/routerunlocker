@@ -1663,7 +1663,7 @@ const UnlockSection = () => {
                           </p>
                           <p>
                             Your purchase will appear on your card statements as{" "}
-                            <strong>GENUINEUNLOCKER</strong>. Goods are sold in
+                            <strong>routerunlocker</strong>. Goods are sold in
                             USD.
                           </p>
 
@@ -1839,7 +1839,7 @@ const UnlockSection = () => {
                             <p>
                               9.1 Our website may contain links to third-party
                               websites or services not owned or controlled by
-                              GenuineUnlocker.
+                              routerunlocker.
                             </p>
                             <p>
                               9.2 We assume no responsibility for the content,
@@ -1851,7 +1851,7 @@ const UnlockSection = () => {
                           <section>
                             <h2>10. Limitation of Liability</h2>
                             <p>
-                              10.1 GenuineUnlocker provides all information in
+                              10.1 routerunlocker provides all information in
                               good faith but does not guarantee its accuracy or
                               completeness.
                             </p>
@@ -1865,7 +1865,7 @@ const UnlockSection = () => {
                           <section>
                             <h2>11. Indemnification</h2>
                             <p>
-                              11.1 You agree to indemnify GenuineUnlocker
+                              11.1 You agree to indemnify routerunlocker
                               against any claims or damages resulting from your
                               breach of these Terms.
                             </p>
@@ -1891,7 +1891,7 @@ const UnlockSection = () => {
                           <section>
                             <h2>14. Assignment</h2>
                             <p>
-                              14.1 GenuineUnlocker may transfer its rights or
+                              14.1 routerunlocker may transfer its rights or
                               obligations without notice. You may not transfer
                               yours without our consent.
                             </p>
@@ -1930,7 +1930,7 @@ const UnlockSection = () => {
                             <h2>18. Entire Agreement</h2>
                             <p>
                               18.1 These Terms represent the entire agreement
-                              between you and GenuineUnlocker.
+                              between you and routerunlocker.
                             </p>
                           </section>
 
@@ -1938,8 +1938,8 @@ const UnlockSection = () => {
                             <h2>19. Contact Us</h2>
                             <p>
                               For questions, email us at{" "}
-                              <a href="mailto:genuineunlockerinfo@gmail.com">
-                                genuineunlockerinfo@gmail.com
+                              <a href="mailto:routerunlockerinfo@gmail.com">
+                                routerunlockerinfo@gmail.com
                               </a>
                               .
                             </p>

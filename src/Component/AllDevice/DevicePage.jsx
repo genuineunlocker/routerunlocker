@@ -71,10 +71,10 @@ const DevicePage = () => {
 return (
     <>
         <Helmet>
-            <title>{`${device.brand} ${model} Unlock | GenuineUnlocker`}</title>
+            <title>{`${device.brand} ${model} Unlock | routerunlocker`}</title>
             <meta
                 name="description"
-                content={`Unlock ${device.brand} ${model} routers, modems, and WiFi devices quickly and safely with GenuineUnlocker.`}
+                content={`Unlock ${device.brand} ${model} routers, modems, and WiFi devices quickly and safely with routerunlocker.`}
             />
         </Helmet>
 

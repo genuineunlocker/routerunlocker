@@ -64,7 +64,7 @@ const NavBar = () => {
               >
                 <FaWhatsapp />
               </a>
-              <a href="mailto:genuineunlockerinfo@gmail.com">
+              <a href="mailto:routerunlockerinfo@gmail.com">
                 <FaEnvelope />
               </a>
             </div>

@@ -8,7 +8,7 @@ const About = () => {
   return (
     <>
       <Helmet>
-        <title>About GenuineUnlocker | Trusted Router Unlocking Service</title>
+        <title>About routerunlocker | Trusted Router Unlocking Service</title>
         <meta
           name="description"
           content="Learn about our mission to provide fast, secure, and universal unlock codes for all major router and modem brands globally."
@@ -17,12 +17,12 @@ const About = () => {
       </Helmet>
       <div className="about-container">
         <div className="about-content">
-          <h1>About GenuineUnlocker</h1>
+          <h1>About routerunlocker</h1>
 
           <section>
             <h2>Our Mission</h2>
             <p>
-              At GenuineUnlocker, we are dedicated to providing fast, reliable,
+              At routerunlocker, we are dedicated to providing fast, reliable,
               and legal WiFi router unlocking services to customers worldwide.
               Our mission is to empower you to use your router with any
               compatible network, giving you the freedom and flexibility to stay
@@ -33,7 +33,7 @@ const About = () => {
           <section>
             <h2>Who We Are</h2>
             <p>
-              GenuineUnlocker is a trusted provider of router unlocking
+              routerunlocker is a trusted provider of router unlocking
               solutions, specializing in sourcing and delivering unlock codes
               and services for a wide range of WiFi router brands and models.
               Based in London, UK, we serve customers across Europe, North
@@ -66,7 +66,7 @@ const About = () => {
           </section>
 
           <section>
-            <h2>Why Choose GenuineUnlocker?</h2>
+            <h2>Why Choose routerunlocker?</h2>
             <ul>
               <li>
                 <strong>100% Money Back Guarantee:</strong> We stand by our
@@ -105,11 +105,11 @@ const About = () => {
               Have questions or need assistance? Our dedicated support team is
               here to help. Contact us via{" "}
               <a
-                href="mailto:genuineunlockerinfo@gmail.com"
+                href="mailto:routerunlockerinfo@gmail.com"
                 target="_blank"
                 className="about-link"
               >
-                genuineunlockerinfo@gmail.com
+                routerunlockerinfo@gmail.com
               </a>{" "}
               or explore our{" "}
               <Link to="/#faq" className="about-link">
@@ -120,7 +120,7 @@ const About = () => {
           </section>
 
           <p className="thank-you">
-            Thank you for choosing GenuineUnlocker your trusted partner in
+            Thank you for choosing routerunlocker your trusted partner in
             unlocking connectivity.
           </p>
         </div>
