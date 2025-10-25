@@ -1,5 +1,6 @@
 import React, { lazy, Suspense, useState, useEffect } from "react";
 import { Routes, Route } from "react-router-dom";
+import { Navigate } from "react-router-dom";
 import Loader from "./Component/loader/Loader.jsx";
 import AllDevices from "./Component/AllDevice/AllDevicePage.jsx";
 import YoutubeDetailPage from "./Component/Youtubedetailpage/YoutubeDetailPage.jsx";
