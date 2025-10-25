@@ -53,6 +53,8 @@ const App = () => {
         {/* ✅ Dynamic Device Page Routes */}
         <Route path="/all-devices" element={<AllDevices />} />
         <Route path="/device/:brand/:model" element={<DevicePage />} />
+        <Route path="/sa" element={<Navigate to="/" replace />} />
+        <Route path="/ae" element={<Navigate to="/" replace />} />
 
         {/* ✅ Catch-all (404) */}
         <Route path="*" element={<NotFound />} />
