@@ -1,0 +1,155 @@
+.Youtubecard-wrapper {
+  padding: 20px 50px 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Ubuntu, sans-serif;
+  min-height: 100vh; 
+  scroll-behavior: smooth;
+}
+
+.Youtubecard-heading {
+  text-align: center;
+  margin: 40px 0;
+  padding: 0 20px;
+}
+
+.Youtubecard-heading h3 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+.Youtubecard-heading span {
+  color: #7c08b2;
+  font-weight: 800;
+}
+
+.Youtubecard-heading p {
+  font-size: 16px;
+  color: #555;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.Youtubecard-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.Youtubecard {
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+  cursor: pointer;
+}
+
+.Youtubecard:hover {
+  transform: translateY(-5px);
+}
+
+.Youtubecard-header img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.Youtubecard-body {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  min-height: 200px;
+}
+
+.Youtubecard-body .tag {
+  display: inline-block;
+  padding: 0.25em 0.75em;         
+  background: royalblue;
+  font-size: 0.75rem;             
+  margin-bottom: 10px;
+  color: #fff;
+  border-radius: 9999px;          
+  text-transform: uppercase;
+  white-space: nowrap;            
+  width: fit-content;   
+}
+
+.Youtubecard-body .tag-teal {
+  background: royalblue;
+}
+
+.Youtubecard-body .tag-travel {
+  background: #8e44ad;
+}
+
+.Youtubecard-body h4 {
+  margin: 10px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.Youtubecard-body p {
+  font-size: 14px;
+  color: #555;
+  flex-grow: 1;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.page-numbers {
+  display: flex;
+}
+
+.page-number {
+  font-size: 16px;
+  color: #333;
+  cursor: pointer;
+  padding: 4px 5px;
+  transition: color 0.3s, font-size 0.3s;
+}
+
+.page-number:hover:not(.active) {
+  color: rgb(133, 2, 172);;
+}
+
+.page-number.active {
+  color: rgb(133, 2, 172);;
+  font-weight: bold;
+}
+
+.pagination-buttons {
+  display: flex;
+  gap: 5px;
+}
+
+.pagination-buttons button {
+    padding: 8px 16px;
+    background-color:  rgb(133, 2, 172);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 0 5px;
+}
+
+.pagination-buttons button:hover:not(.disabled) {
+  background-color: rgb(71, 7, 90);;
+}
+
+.pagination-buttons button.disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+@media (max-width: 768px){
+  .Youtubecard-wrapper {
+  padding: 20px;
+}
+}
