@@ -4,7 +4,6 @@ import "./Order.css";
 import Logo from "../../assets/Genuine Unlocker Logo.png";
 import { Helmet } from "react-helmet-async";
 
-
 const Order = () => {
   const { orderId } = useParams();
   const [order, setOrder] = useState(null);
@@ -226,7 +225,7 @@ Bypass SIM restrictions, switch carriers freely, and enjoy true network freedom 
 Supported networks: STC, Zain, Go Telecom, Mobily, Etisalat, and more.
 Unlock your modem now and use it with any SIM worldwide."
         />
-        <link rel="canonical" href="https://genuineunlocker.net/order" />
+        <link rel="canonical" href="https://routerunlocker.com/order" />
       </Helmet>
 
       <div className="order-page-wrapper">

@@ -9,4 +9,4 @@ Disallow: /api
 Disallow: /backend
 
 # Point Google to your sitemap
-Sitemap: https://genuineunlocker.net/sitemap.xml
+Sitemap: https://routerunlocker.com/sitemap.xml

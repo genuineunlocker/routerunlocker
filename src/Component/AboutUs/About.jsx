@@ -13,7 +13,7 @@ const About = () => {
           name="description"
           content="Learn about our mission to provide fast, secure, and universal unlock codes for all major router and modem brands globally."
         />
-        <link rel="canonical" href="https://genuineunlocker.net/about" />
+        <link rel="canonical" href="https://routerunlocker.com/about" />
       </Helmet>
       <div className="about-container">
         <div className="about-content">

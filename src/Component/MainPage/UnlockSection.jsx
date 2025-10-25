@@ -1094,13 +1094,6 @@ const UnlockSection = () => {
 
   return (
     <>
-      <Helmet>
-        <meta
-          name="description"
-          content="Unlock your routers, modems, and MiFi devices instantly for use with any SIM or mobile network worldwide. Whether you're using a Huawei modem, ZTE router, STC 5G device, Zain MiFi, Go Telecom unit, or any other brand, GenuineUnlocker provides fast, secure, and permanent unlock codes delivered online."
-        />
-        <link rel="canonical" href="https://genuineunlocker.net/#home" />
-      </Helmet>
       <section className="unlock-section">
         <div className="unlock-container">
           <div className="unlock-content">
@@ -1656,8 +1649,8 @@ const UnlockSection = () => {
                           <p>
                             Please read these Terms and Conditions carefully
                             before using{" "}
-                            <a href="https://genuineunlocker.net">
-                              https://genuineunlocker.net
+                            <a href="https://routerunlocker.com">
+                              https://routerunlocker.com
                             </a>{" "}
                             or any of our services. Your access to and use of
                             the service is conditioned upon your acceptance and
@@ -1677,7 +1670,7 @@ const UnlockSection = () => {
                           <section>
                             <h2>1. Description of Service</h2>
                             <p>
-                              1.1 <strong>GenuineUnlocker.net</strong> provides
+                              1.1 <strong>routerunlocker.com</strong> provides
                               professional WiFi router unlocking services using
                               a 16-digit unlock code to remove network
                               restrictions, allowing your router to work with

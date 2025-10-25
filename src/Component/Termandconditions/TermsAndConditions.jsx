@@ -11,7 +11,7 @@ const TermsAndConditions = () => {
           name="description"
           content="Read our service terms, refund policy, and code delivery conditions. Stay informed before unlocking your modem or router."
         />
-        <link rel="canonical" href="https://genuineunlocker.net/terms" />
+        <link rel="canonical" href="https://routerunlocker.com/terms" />
       </Helmet>
 
       <div className="terms-content">
@@ -19,7 +19,7 @@ const TermsAndConditions = () => {
 
         <p>
           Please read these Terms and Conditions carefully before using{" "}
-          <a href="https://genuineunlocker.net">https://genuineunlocker.net</a>{" "}
+          <a href="https://routerunlocker.com">https://routerunlocker.com</a>{" "}
           or any of our services. Your access to and use of the service is
           conditioned upon your acceptance and compliance with these Terms.
         </p>
@@ -36,7 +36,7 @@ const TermsAndConditions = () => {
         <section>
           <h2>1. Description of Service</h2>
           <p>
-            1.1 <strong>GenuineUnlocker.net</strong> provides professional WiFi
+            1.1 <strong>routerunlocker.com</strong> provides professional WiFi
             router unlocking services using a 16-digit unlock code to remove
             network restrictions, allowing your router to work with any
             compatible SIM card or network provider. The service begins upon

@@ -83,7 +83,7 @@ Unlock your modem now and use it with any SIM worldwide."
         />
         <link
           rel="canonical"
-          href="https://genuineunlocker.net/order-tracking"
+          href="https://routerunlocker.com/order-tracking"
         />
       </Helmet>
       <div className="order-tracking-container">
